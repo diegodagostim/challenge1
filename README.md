@@ -8,3 +8,5 @@ Details:
 - ALT attribute were added on every single image.
 - The page title was update.
 - Page had been pushed to Github and deployed.
+
+- Link of the deployed page: https://diegodagostim.github.io/challenge1/
